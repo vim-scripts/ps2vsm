@@ -1,0 +1,12 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1322
+
+This is just a simple PlayStation2 Vector Unit Assembly highlight file for (g)VIM. Unfortuantly it only supports gvim at the moment, since it defines some of its own colours. You are, of course, welcome to modify the file to support normal vim!
+It uses different colours for High and Low instructions, seperates Integer, Floating Point and Special registers by colour, and also highlights destination, broadcast and bit setting extenstions.
+
+I'm sure it has many bugs, but it works pretty well here, and helps out alot.
+
+Couple of screenshots for those who don't have a vsm file handy:
+http://www.jbit.net/~jbit/ps2vsm-dark.png
+http://www.jbit.net/~jbit/ps2vsm-light.png
+
+Hope this helps somebody!
